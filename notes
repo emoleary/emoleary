@@ -1,0 +1,5 @@
+To create a virtual env,
+Use the command:
+    virtualenv <env_name>
+    source <env_name>/bin/activate
+    
